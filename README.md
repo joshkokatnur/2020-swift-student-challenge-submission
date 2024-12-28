@@ -21,7 +21,7 @@ Because voice recognition is a bit slow, I would say that face tracking is the b
 I have enjoyed working with SwiftUI over the past year, so I decided to create all of the intro screens and UI elements with it.
 
 ## Technologies
-SwiftUI - intro screens and UI elements
-SFSpeechRecognizer - on-device voice recognition
-Vision - face tracking
-SpriteKit/GameplayKit - pong game
+- **SwiftUI** - intro screens and UI elements
+- **SFSpeechRecognizer** - on-device voice recognition
+- **Vision** - face tracking
+- **SpriteKit/GameplayKit** - pong game
